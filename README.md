@@ -1,4 +1,4 @@
-# Hi, I'm Simran 👋
+# Hi, I'm Simran Sandhu
 
 **Business & Data Analyst · Vancouver, BC**
 
