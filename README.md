@@ -23,11 +23,11 @@ I turn messy data into decisions that actually stick — dashboards leaders open
 
 | Project | Stack | What It Does |
 |---|---|---|
-| [Customer Churn Prediction](#) | Python · Scikit-learn | 87% accuracy model — maps top 5 churn drivers to retention actions |
-| [Revenue Forecasting Dashboard](#) | Power BI · Regression | Replaced a static Excel report with forward-looking, interactive forecasts |
-| [Customer Segmentation Analysis](#) | Python · K-Means | Segments customers into 5 distinct groups by behaviour and lifetime value |
-| [SKU Reorder Intelligence Model](#) | Python · Excel | Flags slow-moving inventory 2–3 weeks ahead of buying cycles |
-| [Telecom KPI Dashboard](#) | Power BI · DAX · Apache Spark | Consolidated churn, revenue, and network data for 4 teams — adopted as weekly leadership tool |
+| [Customer Churn Prediction](https://github.com/simranksandhu0/customer-churn-prediction) | Python · Scikit-learn | 87% accuracy model — maps top 5 churn drivers to retention actions |
+| [Revenue Forecasting Dashboard](https://github.com/simranksandhu0/revenue_forecasting_dashboard) | Power BI · Regression | Replaced a static Excel report with forward-looking, interactive forecasts |
+| [Customer Segmentation Analysis]([#](https://github.com/simranksandhu0/customer_segmentation) | Python · K-Means | Segments customers into 5 distinct groups by behaviour and lifetime value |
+| [SKU Reorder Intelligence Model](https://github.com/simranksandhu0/sku_reorder_model) | Python · Excel | Flags slow-moving inventory 2–3 weeks ahead of buying cycles |
+| [Telecom KPI Dashboard](https://github.com/simranksandhu0/telecom_kpi-_dashboard) | Power BI · DAX · Apache Spark | Consolidated churn, revenue, and network data for 4 teams — adopted as weekly leadership tool |
 
 ---
 
